@@ -8,5 +8,5 @@ here, i have used
 * **openCV** for rest of the image processing (Display Glass, Magnify). 
 
 # Working
-[Magnifying Glass]()
+[Magnifying Glass](https://www.linkedin.com/posts/umairkarel_python-cvzone-computervision-activity-6837271260456718336-cdmK)
 
