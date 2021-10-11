@@ -7,6 +7,8 @@ here, i have used
 * **openPose** and **cvzone** for detecting hand and the distance between the two fingers(first & middle)
 * **openCV** for rest of the image processing (Display Glass, Magnify). 
 
+> this can be used in smart mirrors
+
 # Working
 [Magnifying Glass](https://www.linkedin.com/posts/umairkarel_python-cvzone-computervision-activity-6837271260456718336-cdmK)
 
